@@ -1,5 +1,12 @@
 # Classifying-Disease-Symtoms
 
+### An unsupervised learning project
+
+#### About the Project:
+- Data was gotten from Amdari.io, https://www.amdari.io/
+- Exploratory Data Analysis.
+- Data Classification using Pytorch
+
 #### Observations
 
 1. There are five categories of cassava images.
